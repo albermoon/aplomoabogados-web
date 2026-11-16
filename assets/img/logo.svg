@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="Aplomo Abogados">
+  <g transform="translate(4 4)">
+    <g fill="none" stroke="#14161B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M28 4 L9 52"/>
+      <path d="M28 4 L47 52"/>
+    </g>
+    <line x1="28" y1="4" x2="28" y2="24" stroke="#14161B" stroke-width="1.6"/>
+    <path d="M22 24 h12 l-2 9 L28 46 l-4-13z" fill="#C8481F"/>
+  </g>
+  <text x="68" y="38" font-family="Fraunces, Georgia, serif" font-size="34" font-weight="600" fill="#14161B" letter-spacing="-0.5">Aplomo</text>
+  <text x="70" y="55" font-family="'JetBrains Mono', Menlo, monospace" font-size="10" fill="#656872" letter-spacing="3">ABOGADOS</text>
+</svg>
